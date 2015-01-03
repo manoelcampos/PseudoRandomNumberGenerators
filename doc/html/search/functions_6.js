@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['main',['main',['../task1mylcg_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task1mylcg.c'],['../task1mylcg__testu01_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task1mylcg_testu01.c'],['../task1native__rand__testu01_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task1native_rand_testu01.c'],['../task2_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task2.c'],['../task3boxmuller_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task3boxmuller.c'],['../task3pollar__rejection_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task3pollar_rejection.c'],['../task4pareto_8c.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;task4pareto.c']]]
-];

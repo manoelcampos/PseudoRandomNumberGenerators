@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
      * */
     unsigned long numbers_count=10;
     
-    lcg_initialize();
+    lcg_initialize(10);
     lcg_get_params(&seed, &C, &M);
     printf("C = %u M (period) = %lu seed = %u\n\n", C, M, seed);
     

@@ -14,9 +14,10 @@
 
 /**
  * Initializes the RNG with the default values.
+ * @param iseed The first value of the sequence (the seed)
  * @see lcg_get_params
  */
-void lcg_initialize();
+void lcg_initialize(int iseed);
 
 /**
 * Gets the internal parameters used by the generator.

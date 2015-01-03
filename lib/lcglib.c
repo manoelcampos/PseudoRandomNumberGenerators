@@ -7,8 +7,8 @@
 static unsigned int seed, xn, C;
 static unsigned long M, module;
 
-void lcg_initialize(){
-    seed = 10;
+void lcg_initialize(int iseed){
+    seed = iseed;
     xn = seed;
     
     //C and M need to be coprime
